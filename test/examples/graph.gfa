@@ -1,0 +1,8 @@
+H	VN:Z:1.0
+S	seq1	AGCTA
+S	seq2	GCTTT
+S	seq3	GCT
+L	seq1	+	seq2	+	*
+L	seq1	+	seq3	+	*
+L	seq2	+	seq3	+	*
+

@@ -1,0 +1,24 @@
+H	VN:Z:1.0
+S	seq1	AATCTGTTCGAGGGCTAGCT
+S	seq2	C
+S	seq3	G
+S	seq4	CGATGATTG
+S	seq5	C
+S	seq6	A
+S	seq7	GTCGTGGGAAAAATCTCAGAAATCTGTTCG
+S   seq8    A
+S	seq9	T
+S	seq10	GGGCTAGCTCGATGATTGCGTCGTGGGAAAAATCTCAGA
+L	seq1	+	seq2	+	*
+L	seq1	+	seq3	+	*
+L	seq2	+	seq4	+	*
+L	seq3	+	seq4	+	*
+L	seq4	+	seq5	+	*
+L	seq4	+	seq6	+	*
+L	seq5	+	seq7	+	*
+L	seq6	+	seq7	+	*
+L	seq7	+	seq8	+	*
+L	seq7	+	seq9	+	*
+L	seq8	+	seq10	+	*
+L	seq9	+	seq10	+	*
+
