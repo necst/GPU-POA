@@ -15,7 +15,7 @@ This tool computes the optimal alignment score between a sequence and a genomic 
 To build the project:
 
 ```bash
-git clone https://github.com/leonardotisato/ALIGNER-INTRA-GPU.git
+git clone https://github.com/necst/GPU-POA.git
 cd ALIGNER-INTRA-GPU
 make
 ```
