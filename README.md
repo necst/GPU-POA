@@ -16,7 +16,7 @@ To build the project:
 
 ```bash
 git clone https://github.com/necst/GPU-POA.git
-cd ALIGNER-INTRA-GPU
+cd GPU-POA
 make
 ```
 
