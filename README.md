@@ -6,7 +6,7 @@ GPU-accelerated sequence-to-graph aligner based on partial order dynamic program
 
 ## 🧬 Overview
 
-This tool computes the optimal alignment score between a sequence and a genomic variation graph, represented in CSR format. It guarantees exact results by filling the full dynamic programming matrix. The implementation is optimized for NVIDIA GPUs and scales well across both short and long reads.
+This tool computes the optimal alignment score between a sequence and a genomic variation graph, represented in CSR format. Results are optimal.
 
 ---
 
